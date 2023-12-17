@@ -18,6 +18,7 @@ namespace AddScp3114
 
         private Handlers.Scp3114 Scp3114;
 
+
         public override void OnEnabled()
         {
             RegisterEvents();
