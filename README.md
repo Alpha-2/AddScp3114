@@ -1,4 +1,5 @@
 # AddScp3114
+*Plugin created for EXILED 8.4.3*
 
 **Webhook Message Content**
   - `{PlayerToChange.Nickname}` - nickname of the changed user, you can insert this anywhere in the text
